@@ -1,0 +1,10 @@
+* trivial-yenc
+
+Common lisp tools for decoding yenc messages
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/stacksmith/trivial-yenc.git   |
+| commit  | 85dcc0e  |
+| systems | trivial-yenc |
+|---------+-------------------------------------------|
+
